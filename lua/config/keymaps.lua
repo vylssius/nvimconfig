@@ -3,4 +3,3 @@
 -- Add any additional keymaps here
 --
 vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
-vim.keymap.set("n", "<leader>rb", vim.cmd.RustRun)
